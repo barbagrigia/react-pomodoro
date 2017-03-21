@@ -5,6 +5,7 @@ You can find the most recent version of this guide [here](https://github.com/fac
 
 ## Table of Contents
 
+[![Build Status](https://img.shields.io/travis/barbagrigia/react-pomodoro/master.svg)](https://travis-ci.org/barbagrigia/react-pomodoro)
 [![Greenkeeper badge](https://badges.greenkeeper.io/barbagrigia/react-pomodoro.svg)](https://greenkeeper.io/)
 
 - [Updating to New Releases](#updating-to-new-releases)
